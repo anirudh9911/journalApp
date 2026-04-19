@@ -37,3 +37,4 @@ jobs:
         run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
           -Dsonar.projectKey=anirudh-personal-projects_journalapp
           -Dsonar.branch.name=main
+#added comments for testing
